@@ -15,10 +15,8 @@ Enhanced Security: Reduces estimated password crack times by 50%.
 
 Screenshot:
 
-![Screenshot of the GUI](image/Screenshot 2024-07-21 at 9.36.42 PM.png)
+![Screenshot of the GUI](image/Screenshot 2024-07-21 at 9.36.42 PM.png)
 
 
 Problem Statement
 The project addresses the common issue of weak user-generated passwords that are easily cracked. The goal was to create a tool that empowers users to generate complex, secure passwords tailored to their specifications.
-
-![GUI Image](image/Screenshot 2024-07-21 at 9.36.42 PM.png)
