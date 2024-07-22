@@ -15,7 +15,7 @@ Enhanced Security: Reduces estimated password crack times by 50%.
 
 Screenshot:
 
-![Screenshot of the GUI](image/Screenshot 2024-07-21 at 9.36.42 PM.png)
+![Screenshot of the GUI](./image/Screenshot 2024-07-21 at 9.36.42 PM.png)
 
 
 Problem Statement
